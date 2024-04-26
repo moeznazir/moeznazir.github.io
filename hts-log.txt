@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Apr 2024 17:55:34 at https://tunis-wp.ibthemespro.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tunis-wp.ibthemespro.com/ -O1 "C:\My Web Sites\moex" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:56:22	Error: 	"Not Found" (404) at link https://tunis-wp.ibthemespro.com/wp-content/themes/tunis-wp/assets/css/meanmenu.css?ver=2.0.7 (from https://tunis-wp.ibthemespro.com/)
+17:56:29	Error: 	"Forbidden" (403) at link https://tunis-wp.ibthemespro.com/xmlrpc.php?rsd (from https://tunis-wp.ibthemespro.com/)
+17:56:48	Error: 	"Not Found" (404) at link https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit/assets/img/2.jpg (from https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit//assets/css/tunis-toolkit.css?ver=1.0)
+17:56:48	Error: 	"Not Found" (404) at link https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit/assets/img/projects/navigation/right-arrow.png (from https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit//assets/css/tunis-toolkit.css?ver=1.0)
+17:56:48	Error: 	"Not Found" (404) at link https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit/assets/img/projects/navigation/left-arrow.png (from https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit//assets/css/tunis-toolkit.css?ver=1.0)
+17:56:48	Error: 	"Not Found" (404) at link https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit/assets/img/projects/navigation/close-button.png (from https://tunis-wp.ibthemespro.com/wp-content/plugins/tunis-toolkit//assets/css/tunis-toolkit.css?ver=1.0)
+17:56:50	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=637
+17:56:50	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=637 to https://tunis-wp.ibthemespro.com/about-me/
+17:56:50	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=222
+17:56:50	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=222 to https://tunis-wp.ibthemespro.com/works/
+17:56:51	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=233
+17:56:51	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=233 to https://tunis-wp.ibthemespro.com/contact/
+17:56:51	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=241
+17:56:51	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=241 to https://tunis-wp.ibthemespro.com/blog/
+17:57:13	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1830
+17:57:13	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1830 to https://tunis-wp.ibthemespro.com/2023/10/14/evergreen-versus-topical-content-an-overview/
+17:57:24	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1719
+17:57:24	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1719 to https://tunis-wp.ibthemespro.com/2023/10/12/how-to-own-your-audience-by-creating-an-email-list/
+17:57:24	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1717
+17:57:24	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1717 to https://tunis-wp.ibthemespro.com/2023/10/12/top-10-toolkits-for-deep-learning-in-2020/
+17:57:24	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1715
+17:57:24	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1715 to https://tunis-wp.ibthemespro.com/2023/10/12/everything-you-need-to-know-about-web-accessibility/
+17:57:24	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1713
+17:57:24	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1713 to https://tunis-wp.ibthemespro.com/2023/10/12/how-to-inject-humor-comedy-into-your-brand/
+17:57:24	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1711
+17:57:24	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1711 to https://tunis-wp.ibthemespro.com/2023/10/12/women-in-web-design-how-to-achieve-success/
+17:57:27	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/blog/page/1/
+17:57:27	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/blog/page/1/ to https://tunis-wp.ibthemespro.com/blog/
+17:57:27	Warning: 	Moved Permanently for https://tunis-wp.ibthemespro.com/?p=1008
+17:57:27	Warning: 	File has moved from https://tunis-wp.ibthemespro.com/?p=1008 to https://tunis-wp.ibthemespro.com/2023/09/12/develop-bron-versus-topical-content-checking-up/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 53 seconds : 254 links scanned, 235 files written (12674459 bytes overall) [6117711 bytes received at 54139 bytes/sec], 10571889 bytes transferred using HTTP compression in 186 files, ratio 35%, 16.1 requests per connection
+(6 errors, 24 warnings, 0 messages)
